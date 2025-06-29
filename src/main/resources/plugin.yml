@@ -1,0 +1,15 @@
+name: PlotMenu
+main: com.example.plotmenu.PlotMenu
+version: 1.0.0-SNAPSHOT
+api-version: 1.21
+commands:
+  plotmenu:
+    description: Open the plot menu
+    usage: /plotmenu
+permissions:
+  plotmenu.use:
+    description: Allows using /plotmenu
+    default: true
+  plotmenu.reload:
+    description: Allows reloading the config
+    default: op

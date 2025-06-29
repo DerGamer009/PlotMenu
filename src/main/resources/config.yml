@@ -1,0 +1,11 @@
+menu-title: '&aPlot Menu'
+items:
+  claim: '&aClaim Plot'
+  home: '&bTeleport Home'
+  sethome: '&eSet Home'
+  addplayer: '&eAdd Player'
+  removeplayer: '&cRemove Player'
+  clear: '&cClear Plot'
+  reset: '&cReset Plot'
+  info: '&9Plot Info'
+  close: '&4Close'
